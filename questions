@@ -1,0 +1,5 @@
+Write an analogy to describe the relationship between clients and servers.
+  Clients and servers have a direct relationship in which they are the frontend and backend of web apps. The client (the 'front-end') is what 
+  is seen by users and the servers (the backend) are where the functionality for what the user sees on their end happens. 
+  
+Draw a diagram of the request/response cycle. You can draw your diagram by hand and take a photo to add to your Gist. 
